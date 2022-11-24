@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Other randoms
+.vscode/
+client-server-model/
